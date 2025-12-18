@@ -1,0 +1,34 @@
+{
+  "name": "r3f-vite-starter",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.0.3",
+    "@react-three/fiber": "^9.0.4",
+    "@react-three/postprocessing": "^3.0.4",
+    "@tailwindcss/vite": "^4.1.16",
+    "leva": "^0.10.1",
+    "motion": "^12.23.26",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "tailwindcss": "^4.1.16",
+    "three": "^0.173.0",
+    "wawa-lipsync": "^0.0.1",
+    "wawa-vfx": "^1.2.10",
+    "zustand": "^5.0.8"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "globals": "^15.15.0",
+    "vite": "^6.2.0"
+  }
+}

@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Coming+Soon&family=Mountains+of+Christmas:wght@700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Mountains of Christmas", sans-serif;
+  --font-sans: "Coming Soon", cursive;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+}
