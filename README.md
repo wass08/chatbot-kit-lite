@@ -1,10 +1,6 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+# Chatbot Kit Lite
+Learn how to build a simple Chatbot with Three.js, React Three Fiber, and n8n
 
-```
-yarn
-yarn dev
-```
+<img width="1920" height="1080" alt="Thumbnail" src="https://github.com/user-attachments/assets/2d4933a4-e00c-41b3-ae6f-c1e0b08da2fa" />
 
-
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+[Video Tutorial](https://youtu.be/G5H4JPk7wB4)
